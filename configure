@@ -1,0 +1,7 @@
+#!/usr/bin/env gosh
+;; encoding: utf-8
+;; mode: gauche
+
+(use gauche.configure)
+(cf-init-gauche-extension)
+(cf-output-default)
